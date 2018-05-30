@@ -1,0 +1,13 @@
+﻿  dynarray.c
+e:\diy_compiler_and_linker\grammar_analysis\grammar_analysis\dynarray.c(62): warning C4018: “>”: 有符号/无符号不匹配
+  dynstring.c
+  error.c
+e:\diy_compiler_and_linker\grammar_analysis\grammar_analysis\error.c(95): warning C4142: "get_tkstr": 类型的良性重定义
+  e:\diy_compiler_and_linker\grammar_analysis\grammar_analysis\grammar_analysis.h(69): note: 参见“get_tkstr”的声明
+  gammar.c
+e:\diy_compiler_and_linker\grammar_analysis\grammar_analysis\gammar.c(880): warning C4013: “color_token”未定义；假设外部返回 int
+  grammar_analysis.c
+  lex.c
+  tkword.c
+  正在生成代码...
+  grammar_analysis.vcxproj -> E:\DIY_Compiler_and_Linker\grammar_analysis\Debug\grammar_analysis.exe
